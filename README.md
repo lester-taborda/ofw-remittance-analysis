@@ -21,7 +21,7 @@ Without corridor-level data on where this gap is largest, expansion decisions ar
 ---
 
 ## Data Sources
-|---|---|---|
+
 | Source | Dataset | Use |
 | Bangko Sentral ng Pilipinas (BSP) | Cash Remittances by Country, 2019–2024 | Primary — corridor volume and ranking |
 | Philippine Statistics Authority (PSA) | Survey on Overseas Filipinos (SOF) 2019–2024, Table 9/6 | Supplementary — bank vs. non-bank usage rates |
@@ -60,7 +60,7 @@ Applying the 39% non-bank proxy across 27 corridors using 2024 volumes, an estim
 ---
 
 ## Recommendations
-|---|---|---|
+
 | Priority | Corridor(s) | Rationale |
 | 1 — Immediate | United States | $5.47B non-bank opportunity, 40.6% of total. Single corridor justifies dedicated digital infrastructure. |
 | 2 — Near-term | Saudi Arabia, Qatar | Post-COVID recovery ongoing, growing CAGR. Competitive fee structures can capture displaced flows. |
