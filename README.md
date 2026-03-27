@@ -80,7 +80,7 @@ Applying the 39% non-bank proxy across 27 corridors using 2024 volumes, an estim
 - 📊 [Interactive Tableau Dashboard](https://public.tableau.com/views/OFWRemittanceAnalysis-UnderservedCorridors2019-2024/OFWRemittanceAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - 📁 Cleaned Analysis File — BSP_OFW_Analysis.xlsx
 - 📄 [Data Sources Documentation](Deliverable_2_Data_Sources.docx)
-- 📑 [Presentation](OFW_Analysis_Presentation.pptx) 
+- 📑 [Presentation](OFW_Remittance_Analysis_Presentation.pptx) 
 
 ---
 
